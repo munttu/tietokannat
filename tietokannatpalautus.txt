@@ -1,0 +1,29 @@
+
+
+English instructions:
+(Save as some-file.md, eg. join-exercises.md)
+
+# Week [number]
+
+### Assignment 1
+SELECT * FROM example 
+![screenshot](schreenshot-file-name.png)
+
+### Assignment 2
+SELECT * FROM example WHERE column = 'value' 
+![screenshot](schreenshot-file-name.png)
+
+
+
+English instructions:
+(Save as some-file.md, eg. join-exercises.md)
+
+# Week [number]
+
+### Assignment 1
+SELECT * FROM example 
+![](schreenshot-file-name.png)
+
+### Assignment 2
+SELECT * FROM example WHERE column = 'value' 
+![screenshot](schreenshot-file-name.png)
