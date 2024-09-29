@@ -3,14 +3,34 @@
 English instructions:
 (Save as some-file.md, eg. join-exercises.md)
 
-# Week [number]
+# viikko [2]
 
-### Assignment 1
-SELECT * FROM example 
-![screenshot](schreenshot-file-name.png)
+###Yhteentauluun_kohdistuvat
+1.select * from goal
+2.select name, type from airport where iso_country = "FI";
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+![screenshot](schreenshot-file-yhteen_tauluunkohdistuvat.png)
 
-### Assignment 2
-SELECT * FROM example WHERE column = 'value' 
+###where_osanliito_ehto
+ kysely
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
 ![screenshot](schreenshot-file-name.png)
 
 
