@@ -17,7 +17,7 @@ English instructions:
 9.
 10.
 
-![screenshot](screenshot-file-yhteen_tauluunkohdistuvat.png)
+![screenshot](screenshot-file-yhteentauluun03.png)
 
 ###where_osanliito_ehto
  kysely
