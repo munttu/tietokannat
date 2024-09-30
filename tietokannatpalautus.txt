@@ -16,6 +16,7 @@ English instructions:
 8.
 9.
 10.
+
 ![screenshot](schreenshot-file-yhteen_tauluunkohdistuvat.png)
 
 ###where_osanliito_ehto
